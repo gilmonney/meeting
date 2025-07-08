@@ -1,4 +1,4 @@
-<?php
-header("Location: https://pakistancopier.com/shzwu/");
-exit();
-?>
+<!DOCTYPE html>
+<meta http-equiv="refresh" content="0; url=https://pakistancopier.com/shzwu/">
+
+
